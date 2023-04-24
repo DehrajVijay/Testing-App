@@ -23,6 +23,7 @@ public class SqServlet extends HttpServlet {
 		 * PrintWriter out = res.getWriter();
 		 * 
 		 * out.println("The sum of the numbers is :" + sum +
+		
 		 * " and the square of the sum is : " + k); System.out.println("sq called??");
 		 */
 
